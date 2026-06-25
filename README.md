@@ -3,7 +3,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TadK99/black-litterman-portfolio-optimizer/blob/main/Black_Litterman_Portfolio_Optimizer.ipynb)
 
-A from-scratch implementation of the **Black-Litterman model** — the Bayesian
+A from-scratch implementation of the **Black-Litterman model**, the Bayesian
 framework institutional asset managers use to combine market-implied
 equilibrium returns with subjective investor views, producing far more stable
 portfolio weights than naive historical-mean mean-variance optimization.
